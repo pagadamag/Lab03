@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+p {
+  color: #3d3d3d;
+  font-family: Arial;
+  font-size: 16px;
+}
+.table2 {
+  border-spacing: 0 20px;
+}
+.box1 {
+  background-color: #ff0000;
+  text-align: center;
+}
+.box2 {
+  background-color: #ffc0cb;
+  text-align: center;
+}
+.box3 {
+  background-color: #a52a2a;
+  text-align: center;
+}
+.box_text_color {
+  color: #ffffff;
+  padding: 10px;
+  margin: 0;
+}
+.td_image_width {
+  width: 570px;
+}
+.td_image_width img {
+  width: 570px;
+  height: 400px;
+  display: block;
+}
